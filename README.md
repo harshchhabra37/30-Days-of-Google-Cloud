@@ -51,7 +51,7 @@ And last date for completing the task is 27th October 11:59 PM IST.
 
 #### Prize #2: <h4>Complete both the tracks</h4>
 
-<img src = "https://user-images.githubusercontent.com/60788180/134784536-7bea9267-26d0-4564-91d2-f1bdb885ebd6.png"  height="220vh"><img src = "https://user-images.githubusercontent.com/60788180/134784295-eb8a0a13-5740-4ab4-a42f-5d47c638d4de.png"  height="220vh"><img src = "https://user-images.githubusercontent.com/60788180/134784551-9819aea0-348d-472c-86ee-3b36f878da84.png"  height="220vh"><img src = "https://user-images.githubusercontent.com/60788180/134784504-7152962e-d7c7-4688-8d39-01b746e33a51.png"  height="220vh">
+<img src = "https://user-images.githubusercontent.com/60788180/134784536-7bea9267-26d0-4564-91d2-f1bdb885ebd6.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784295-eb8a0a13-5740-4ab4-a42f-5d47c638d4de.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784551-9819aea0-348d-472c-86ee-3b36f878da84.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784504-7152962e-d7c7-4688-8d39-01b746e33a51.png"  height="230vh">
 
 [How to get Qwiklabs Public profile URL](https://www.youtube.com/watch?v=GyQE-JnylSs&t=190s&ab_)
 
