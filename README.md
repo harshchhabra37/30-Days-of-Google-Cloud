@@ -35,6 +35,7 @@ This is the list of Quests you have to complete in this program.
 
 6. Skill Badge: [Explore Machine Learning Models with Explainable AI](https://google.qwiklabs.com/quests/126?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 <br>
+<hr/>
 
 ## 📌Rules for availing the prizes🏆
 
@@ -53,9 +54,11 @@ And last date for completing the task is 27th October 11:59 PM IST.
 
 <img src = "https://user-images.githubusercontent.com/60788180/134784536-7bea9267-26d0-4564-91d2-f1bdb885ebd6.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784295-eb8a0a13-5740-4ab4-a42f-5d47c638d4de.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784551-9819aea0-348d-472c-86ee-3b36f878da84.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784504-7152962e-d7c7-4688-8d39-01b746e33a51.png"  height="230vh">
 
+
 [How to get Qwiklabs Public profile URL](https://www.youtube.com/watch?v=GyQE-JnylSs&t=190s&ab_)
 
 [30 Days of Google Cloud Info and Intro to Google Cloud](https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=108s&ab_)
+<hr/>
 
 <h4>📍 For any Query:</h4>
 *Reach out to the Qwiklabs Chat support via the Qwiklabs home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support)
@@ -64,6 +67,25 @@ And last date for completing the task is 27th October 11:59 PM IST.
 Source: 30 Days of Google Cloud Official Website.
 
 You can visit this webiste for more info and FAQs: https://events.withgoogle.com/30daysofgooglecloud/#content
+<hr/>
+
+You can show some love ❤ by giving a star ⭐ and sharing this repo. For more queries you can contact me [Harsh Chhabra](https://github.com/chhabraharsh37)
+
+
+<h3 align="left">Connect with me 🤝</h3>
+<p align="left">
+<div class="footer" id="top3">
+  <center> 
+  
+   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797880-3537a842-ce79-44e1-ba25-1e760f51ef88.png" height="30vh">  </a>
+ <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="https://user-images.githubusercontent.com/60788180/130677206-0f4a593f-a3a8-4d65-ab70-49c86ece5ce2.png" height="30vh">  </a>
+    <a href="https://github.com/chhabraharsh37" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797806-016f710c-7c24-4b9d-80ee-b541202646b1.png" height="30vh"></a>
+    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="https://user-images.githubusercontent.com/60788180/130677056-e5bbca80-5b36-4a67-a22c-a7ed7305eddc.png" height="30vh">  </a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797892-dfe9ff29-c6de-4a31-8f37-8f1a15adedc7.png" height="30vh"></a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797841-d9fde958-86d2-46e6-ad94-0289ed608ae4.png" height="30vh"></a>
+ </center>
+  </div>
+</p>
 
 
 
