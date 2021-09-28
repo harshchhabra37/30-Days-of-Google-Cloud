@@ -61,8 +61,9 @@ And last date for completing the task is 27th October 11:59 PM IST.
 <hr/>
 
 <h4>📍 For any Query:</h4>
-*Reach out to the Qwiklabs Chat support via the Qwiklabs home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support)
-*Just drop an email to dscsupport@qwiklabs.com.
+*Reach out to the **Qwiklabs Chat Support** via the Qwiklabs home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support)
+
+*Just drop an email to **dscsupport@qwiklabs.com**.
 
 Source: 30 Days of Google Cloud Official Website.
 
